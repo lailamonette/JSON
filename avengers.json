@@ -1,0 +1,46 @@
+
+{
+    "TeamName" : "The Avengers",
+    "baseLocation" : "New York, New York",
+    "baseName" : "Avengers Compound",
+    "active" : true,
+    "members" : 
+    [
+      {
+        "SuperheroName" : "Iron Man",
+        "age" : 48,
+        "personalityType": "Sarcastic",
+        "alterEgo" : "Tony Stark",
+        "abilities" : [
+          "Power armor suit",
+          "Supersonic flight",
+          "Missile Projection"
+        ]
+      },
+      {
+        "SuperheroName" : "Spider-Man",
+        "age" : 17,
+        "personalityType":"Witty",
+        "alterEgo" : "Peter Parker",
+        "abilities" : [
+          "Superhuman Strength",
+          "Spider-senses",
+          "Wallcrawling",
+          "Healing Factor"
+        ]
+      },
+      {
+        "SuperheroName" : "Wanda",
+        "age" : 33,
+        "personalityType":"Idealistic",
+        "alterEgo" : "Scarlet Witch",
+        "abilities" : [
+          "Telekinesis",
+          "Flight",
+          "Force Field",
+          "Teleportation",
+          "Witchcraft"
+        ]
+      }
+    ]
+}
