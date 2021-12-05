@@ -13,10 +13,5 @@
         "name": "Vanilla",
         "img":"images/vanilla.jpg",
         "price": 5
-    },
-    {
-        "name": "Poop",
-        "img": "images/poop.jpg",
-        "price" : "You can't afford it"
     }
 ]
