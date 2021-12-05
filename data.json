@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Chocolate",
+        "img": "images/choco.jpg",
+        "price": 5
+    },
+    {
+        "name": "Chocolate Mint",
+        "img":"images/chocomint.jpg",
+        "price": 5
+    },
+    {
+        "name": "Vanilla",
+        "img":"images/vanilla.jpg",
+        "price": 5
+    }
+]
